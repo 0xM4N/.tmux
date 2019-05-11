@@ -251,6 +251,7 @@ This configuration supports the following builtin variables:
  - `#{prefix}`: is prefix being depressed?
  - `#{root}`: is current user root?
  - `#{synchronized}`: are the panes synchronized?
+ - `#{uptime_y}`: uptime years
  - `#{uptime_d}`: uptime days
  - `#{uptime_h}`: uptime hours
  - `#{uptime_m}`: uptime minutes
